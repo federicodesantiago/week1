@@ -1,3 +1,3 @@
-.[
-    box-sizing::after
-]
+* {
+    box-sizing: border-box;
+}
