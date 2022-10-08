@@ -10,4 +10,4 @@ Vamos a aprender:
 
 ## Samples
 
--   Dogs
+-   Cats
